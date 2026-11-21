@@ -6,5 +6,11 @@
       "role": "admin"
     }
   ],
-  "pengguna": []
+  "pengguna": [
+    {
+      "username": "iwak",
+      "password": "iwak",
+      "role": "pengguna"
+    }
+  ]
 }
