@@ -1,10 +1,12 @@
-{
-  "admin": [
-    {
-      "username": "annas",
-      "password": "annas",
-      "role": "admin"
-    }
-  ],
-  "pengguna": []
-}
+[
+  {
+    "username": "annas",
+    "password": "YW5uYXM=",
+    "role": "admin"
+  },
+  {
+    "username": "iwak",
+    "password": "aXdhaw==",
+    "role": "user"
+  }
+]
