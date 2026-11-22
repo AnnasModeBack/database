@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "annas",
+      "password": "annas",
+      "role": "user",
+      "active": true
+    }
+  ]
 }
