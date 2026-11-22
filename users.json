@@ -1,8 +1,16 @@
 {
+  "admin": {
+    "username": "annas",
+    "password": "annas",
+    "role": "admin",
+    "active": true
+  },
   "users": [
     {
       "username": "iwak",
-      "password": "iwak"
+      "password": "iwak",
+      "role": "user",
+      "active": true
     }
   ]
 }
